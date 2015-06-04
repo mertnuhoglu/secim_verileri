@@ -39,7 +39,7 @@ clean_memurlarnet_json_files = function() {
 	# "secim": [
 	for (i in 1:81) {
 		filename = sprintf( dir_genel_memurlarnet_raw() %+% "%02s.json", i)
-		cmd = sprintf("./clean_memurlarnet_json.sh %s", filename)
+		cmd = sprintf("./clean_memurlarnet_json.sh %s %s", filename, dir_genel_memurlarnet_clean() )
 		system(cmd)
 	}
 }
