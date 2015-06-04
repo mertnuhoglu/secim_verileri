@@ -2,7 +2,7 @@
 
 filename=$1
 basename=${filename##*/}
-target_dir=memurlarnet/clean
+target_dir=data/memurlarnet/genel/clean
 mkdir -p $target_dir
 target=$target_dir/$basename
 
