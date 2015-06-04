@@ -1,0 +1,14611 @@
+{ "secim": [
+{
+	"ilce": "Seyhan",
+	"yil": 2011,
+	"sandik": 1670,
+	"secmen": 482157,
+	"oykullanan": 407851,
+	"gecerlioy": 397828,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 130863
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 2421
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 137511
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 1907
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 755
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 539
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 699
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 1269
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 114
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 60289
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 250
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 715
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 4261
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 517
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 55718
+	}
+	]
+},
+{
+	"ilce": "Seyhan",
+	"yil": 2007,
+	"sandik": 1870,
+	"secmen": 570517,
+	"oykullanan": 440323,
+	"gecerlioy": 428998,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 137320
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 1049
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 125614
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 18068
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 15020
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 1615
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 1729
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 85488
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 821
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 7288
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 794
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 34192
+	}
+	]
+},
+{
+	"ilce": "Seyhan",
+	"yil": 2002,
+	"sandik": 2043,
+	"secmen": 562664,
+	"oykullanan": 412516,
+	"gecerlioy": 396148,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 92832
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 11485
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 2000
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 984
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 104098
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 47112
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 5584
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 30108
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 38602
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 2204
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 901
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 39232
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 553
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 2462
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 7572
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 1095
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 2996
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 5799
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 529
+	}
+	]
+},
+{
+	"ilce": "Seyhan",
+	"yil": 1999,
+	"sandik": 2736,
+	"secmen": 488810,
+	"oykullanan": 394815,
+	"gecerlioy": 377190,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 50127
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 2060
+	},
+	{
+		"Parti": "BP",
+		"Oy": 921
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 29458
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 496
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 316
+	},
+	{
+		"Parti": "DP",
+		"Oy": 866
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 124493
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 1200
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 22160
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 668
+	},
+	{
+		"Parti": "FP",
+		"Oy": 36203
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 35571
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 623
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 673
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 65408
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 840
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 4377
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 289
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 311
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 130
+	}
+	]
+},
+{
+	"ilce": "Seyhan",
+	"yil": 1995,
+	"sandik": 1502,
+	"secmen": 436945,
+	"oykullanan": 355731,
+	"gecerlioy": 342748,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 52322
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 28104
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 85012
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 59094
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 35620
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 701
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 34243
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 885
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 43494
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 1254
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 657
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 293
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1069
+	}
+	]
+},
+{
+	"ilce": "Seyhan",
+	"yil": 1991,
+	"sandik": 1180,
+	"secmen": 354377,
+	"oykullanan": 275152,
+	"gecerlioy": 265319,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 60453
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 46296
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 70520
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 27042
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 59649
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 969
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 390
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 2011,
+	"sandik": 961,
+	"secmen": 269449,
+	"oykullanan": 225279,
+	"gecerlioy": 219153,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 96283
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 1744
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 58984
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 940
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 416
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 282
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 343
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 983
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 42
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 35137
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 168
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 373
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 1728
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 236
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 21494
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 2007,
+	"sandik": 1002,
+	"secmen": 298041,
+	"oykullanan": 227655,
+	"gecerlioy": 220764,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 95645
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 698
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 41809
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 9386
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 7401
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 935
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 795
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 46879
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 318
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 2915
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 415
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 13568
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 2002,
+	"sandik": 1065,
+	"secmen": 287629,
+	"oykullanan": 211890,
+	"gecerlioy": 203230,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 65598
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 5892
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 1338
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 497
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 38875
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 22038
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2603
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 17353
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 19564
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 772
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 240
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 21073
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 312
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 640
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 3068
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 350
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 1557
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 1318
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 142
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 1999,
+	"sandik": 1383,
+	"secmen": 246524,
+	"oykullanan": 205774,
+	"gecerlioy": 195268,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 20259
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 1376
+	},
+	{
+		"Parti": "BP",
+		"Oy": 657
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 20418
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 213
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 208
+	},
+	{
+		"Parti": "DP",
+		"Oy": 560
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 46885
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 924
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 14536
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 300
+	},
+	{
+		"Parti": "FP",
+		"Oy": 24275
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 17348
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 338
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 363
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 44538
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 416
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 1246
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 173
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 219
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 16
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 1995,
+	"sandik": 760,
+	"secmen": 217570,
+	"oykullanan": 180052,
+	"gecerlioy": 172595,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 25130
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 14125
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 39206
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 22069
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 15780
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 429
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 24717
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 629
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 28294
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 732
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 534
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 487
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 463
+	}
+	]
+},
+{
+	"ilce": "Yüreðir",
+	"yil": 1991,
+	"sandik": 631,
+	"secmen": 181742,
+	"oykullanan": 144633,
+	"gecerlioy": 139947,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 32238
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 24136
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 35447
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 18292
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 29156
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 678
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 2011,
+	"sandik": 55,
+	"secmen": 11920,
+	"oykullanan": 10602,
+	"gecerlioy": 10345,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5509
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 36
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1631
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 245
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 8
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 62
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 28
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 105
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 15
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2504
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 17
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 19
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 133
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 16
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 17
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 2007,
+	"sandik": 55,
+	"secmen": 13707,
+	"oykullanan": 11850,
+	"gecerlioy": 11690,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 4610
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 81
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1371
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 2792
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 238
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 117
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 35
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2194
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 28
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 170
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 26
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 28
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 2002,
+	"sandik": 63,
+	"secmen": 14651,
+	"oykullanan": 11112,
+	"gecerlioy": 10883,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 2903
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1474
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 74
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 34
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1389
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 69
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 269
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2522
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 574
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 30
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 31
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1127
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 74
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 15
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 102
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 18
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 123
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 52
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 3
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 1999,
+	"sandik": 82,
+	"secmen": 13989,
+	"oykullanan": 13005,
+	"gecerlioy": 12618,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1446
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 153
+	},
+	{
+		"Parti": "BP",
+		"Oy": 37
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 549
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 14
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 21
+	},
+	{
+		"Parti": "DP",
+		"Oy": 43
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2050
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 72
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3303
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 15
+	},
+	{
+		"Parti": "FP",
+		"Oy": 965
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 152
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 43
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 90
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3532
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 48
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 51
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 19
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 15
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 1995,
+	"sandik": 59,
+	"secmen": 13347,
+	"oykullanan": 11221,
+	"gecerlioy": 10986,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2804
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 901
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 857
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2448
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 142
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 33
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1371
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 87
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2225
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 45
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 59
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 14
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Aladað",
+	"yil": 1991,
+	"sandik": 41,
+	"secmen": 11583,
+	"oykullanan": 10357,
+	"gecerlioy": 10159,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2782
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 404
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3857
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 860
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 2223
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 33
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Bahçe",
+	"yil": 1995,
+	"sandik": 53,
+	"secmen": 11798,
+	"oykullanan": 10294,
+	"gecerlioy": 9984,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1916
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 583
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1026
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1383
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 98
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 25
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1396
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 55
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 3371
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 63
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 36
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 17
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 15
+	}
+	]
+},
+{
+	"ilce": "Bahçe",
+	"yil": 1991,
+	"sandik": 43,
+	"secmen": 11318,
+	"oykullanan": 9672,
+	"gecerlioy": 9412,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1898
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 352
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2696
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2759
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 1655
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 52
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 2011,
+	"sandik": 422,
+	"secmen": 105790,
+	"oykullanan": 91781,
+	"gecerlioy": 89820,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 31514
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 635
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 25041
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 691
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 220
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 174
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 108
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 342
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 21
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 20763
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 54
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 163
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 669
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 100
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 9325
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 2007,
+	"sandik": 347,
+	"secmen": 94889,
+	"oykullanan": 76576,
+	"gecerlioy": 74914,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 24725
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 227
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 12868
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 5414
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 1867
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 267
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 280
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 22706
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 138
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 671
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 108
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 5643
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 2002,
+	"sandik": 453,
+	"secmen": 107290,
+	"oykullanan": 78431,
+	"gecerlioy": 75286,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 13199
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 3523
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 343
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 160
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 13619
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 8458
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 899
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 13680
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 6352
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 346
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 95
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 11047
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 123
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 446
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 804
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 76
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 836
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 972
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 308
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 1999,
+	"sandik": 496,
+	"secmen": 98996,
+	"oykullanan": 84590,
+	"gecerlioy": 81615,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 8996
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 907
+	},
+	{
+		"Parti": "BP",
+		"Oy": 131
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 6079
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 141
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 64
+	},
+	{
+		"Parti": "DP",
+		"Oy": 186
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 18532
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 192
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 8584
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 271
+	},
+	{
+		"Parti": "FP",
+		"Oy": 4458
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 7718
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 190
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 119
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 24127
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 119
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 661
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 72
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 67
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 1995,
+	"sandik": 350,
+	"secmen": 95271,
+	"oykullanan": 78739,
+	"gecerlioy": 76340,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 11923
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 6721
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 14644
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 13014
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 7236
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 249
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 14110
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 296
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 7108
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 271
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 158
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 70
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 540
+	}
+	]
+},
+{
+	"ilce": "Ceyhan",
+	"yil": 1991,
+	"sandik": 282,
+	"secmen": 88520,
+	"oykullanan": 72303,
+	"gecerlioy": 70813,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 13524
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 5939
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 21924
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 7562
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 21536
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 328
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Düziçi",
+	"yil": 1995,
+	"sandik": 142,
+	"secmen": 36235,
+	"oykullanan": 31035,
+	"gecerlioy": 30362,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 4307
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 3796
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 3782
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 6176
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 198
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 66
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 4739
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 97
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 6952
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 75
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 78
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 34
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 62
+	}
+	]
+},
+{
+	"ilce": "Düziçi",
+	"yil": 1991,
+	"sandik": 97,
+	"secmen": 31253,
+	"oykullanan": 26783,
+	"gecerlioy": 26185,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 3411
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1529
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 8752
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 4209
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 8200
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 84
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Çukurova",
+	"yil": 2011,
+	"sandik": 859,
+	"secmen": 249574,
+	"oykullanan": 216202,
+	"gecerlioy": 212932,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 62367
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 822
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 91132
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 887
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 329
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 258
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 569
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 972
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 35
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 48825
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 85
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 419
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 1409
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 262
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 4561
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 2011,
+	"sandik": 69,
+	"secmen": 13064,
+	"oykullanan": 11006,
+	"gecerlioy": 10578,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5724
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 60
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1801
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 116
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 19
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 52
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 29
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 86
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 14
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2344
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 23
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 40
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 224
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 21
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 25
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 2007,
+	"sandik": 61,
+	"secmen": 13264,
+	"oykullanan": 11459,
+	"gecerlioy": 11166,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5641
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 152
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1369
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 708
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 174
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 185
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 65
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2443
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 21
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 286
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 46
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 76
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 2002,
+	"sandik": 71,
+	"secmen": 13701,
+	"oykullanan": 11457,
+	"gecerlioy": 11098,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 4173
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 248
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 71
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 22
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1425
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 87
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 308
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2229
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 472
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 58
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 48
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1496
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 45
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 14
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 310
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 5
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 48
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 37
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 2
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 1999,
+	"sandik": 84,
+	"secmen": 13002,
+	"oykullanan": 12037,
+	"gecerlioy": 11506,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 982
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 194
+	},
+	{
+		"Parti": "BP",
+		"Oy": 56
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 623
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 19
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 21
+	},
+	{
+		"Parti": "DP",
+		"Oy": 51
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1612
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 52
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1885
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 20
+	},
+	{
+		"Parti": "FP",
+		"Oy": 1793
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 106
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 38
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 91
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3815
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 72
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 33
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 23
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 20
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 1995,
+	"sandik": 69,
+	"secmen": 12785,
+	"oykullanan": 11078,
+	"gecerlioy": 10770,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1607
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 573
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1544
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2195
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 112
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 50
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1711
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 101
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2757
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 40
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 50
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 29
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1
+	}
+	]
+},
+{
+	"ilce": "Feke",
+	"yil": 1991,
+	"sandik": 51,
+	"secmen": 12295,
+	"oykullanan": 10981,
+	"gecerlioy": 10637,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1091
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 651
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4506
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2303
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 2004
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 82
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 2011,
+	"sandik": 82,
+	"secmen": 20518,
+	"oykullanan": 17770,
+	"gecerlioy": 17360,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 7887
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 101
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 3354
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 112
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 34
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 51
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 23
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 150
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 5
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 5215
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 25
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 25
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 245
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 12
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 121
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 2007,
+	"sandik": 72,
+	"secmen": 20876,
+	"oykullanan": 17002,
+	"gecerlioy": 16654,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 6486
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 52
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1893
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 1969
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 309
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 80
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 42
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 5407
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 25
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 282
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 30
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 79
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 2002,
+	"sandik": 90,
+	"secmen": 22300,
+	"oykullanan": 17503,
+	"gecerlioy": 16999,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5818
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1000
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 197
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 47
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1952
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 212
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 217
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3530
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 941
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 44
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 26
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2610
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 40
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 15
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 197
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 13
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 67
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 70
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 3
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 1999,
+	"sandik": 126,
+	"secmen": 21015,
+	"oykullanan": 18769,
+	"gecerlioy": 17934,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2528
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 175
+	},
+	{
+		"Parti": "BP",
+		"Oy": 24
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 785
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 23
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 27
+	},
+	{
+		"Parti": "DP",
+		"Oy": 42
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2395
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 113
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3308
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 18
+	},
+	{
+		"Parti": "FP",
+		"Oy": 2283
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 202
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 39
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 45
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 5733
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 57
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 89
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 20
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 28
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 1995,
+	"sandik": 86,
+	"secmen": 21051,
+	"oykullanan": 18109,
+	"gecerlioy": 17664,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2907
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 965
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2002
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3124
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 156
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 47
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 5014
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 84
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 3250
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 41
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 42
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 25
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 7
+	}
+	]
+},
+{
+	"ilce": "Ýmamoðlu",
+	"yil": 1991,
+	"sandik": 62,
+	"secmen": 17862,
+	"oykullanan": 15757,
+	"gecerlioy": 15471,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2879
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 738
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 6759
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 1904
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 3143
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 48
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Kadirli",
+	"yil": 1995,
+	"sandik": 268,
+	"secmen": 71876,
+	"oykullanan": 61205,
+	"gecerlioy": 59760,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 15032
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 4139
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 5161
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 11824
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 464
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 130
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 12221
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 303
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 9936
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 137
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 159
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 229
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 25
+	}
+	]
+},
+{
+	"ilce": "Kadirli",
+	"yil": 1991,
+	"sandik": 225,
+	"secmen": 65936,
+	"oykullanan": 56325,
+	"gecerlioy": 55296,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 13247
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2213
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 17869
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 10793
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 10994
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 180
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 2011,
+	"sandik": 91,
+	"secmen": 16323,
+	"oykullanan": 14501,
+	"gecerlioy": 14176,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 7944
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 68
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1750
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 236
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 15
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 52
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 29
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 109
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 11
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3622
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 17
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 20
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 262
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 12
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 29
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 2007,
+	"sandik": 100,
+	"secmen": 21965,
+	"oykullanan": 18981,
+	"gecerlioy": 18701,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 9704
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 107
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1425
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 1715
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 275
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 112
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 78
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 4756
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 33
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 421
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 46
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 29
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 2002,
+	"sandik": 118,
+	"secmen": 22740,
+	"oykullanan": 18576,
+	"gecerlioy": 18162,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 7845
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 574
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 118
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 40
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1538
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 143
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 157
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4068
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 725
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 60
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 29
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2342
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 50
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 18
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 315
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 13
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 86
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 40
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 1999,
+	"sandik": 120,
+	"secmen": 21249,
+	"oykullanan": 19895,
+	"gecerlioy": 19280,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1627
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 290
+	},
+	{
+		"Parti": "BP",
+		"Oy": 44
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 409
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 15
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 37
+	},
+	{
+		"Parti": "DP",
+		"Oy": 79
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2312
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 75
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3540
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 25
+	},
+	{
+		"Parti": "FP",
+		"Oy": 2898
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 144
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 69
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 71
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 7428
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 117
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 37
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 33
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 30
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 1995,
+	"sandik": 105,
+	"secmen": 21571,
+	"oykullanan": 19517,
+	"gecerlioy": 19212,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 4134
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 957
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1382
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4069
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 165
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 68
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3426
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 215
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 4645
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 57
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 63
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 27
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 4
+	}
+	]
+},
+{
+	"ilce": "Karaisalý",
+	"yil": 1991,
+	"sandik": 89,
+	"secmen": 21640,
+	"oykullanan": 19349,
+	"gecerlioy": 18898,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 5781
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 947
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 7112
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 3188
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 1795
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 75
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 2011,
+	"sandik": 74,
+	"secmen": 14989,
+	"oykullanan": 13165,
+	"gecerlioy": 13026,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 3937
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 31
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 6264
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 70
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 21
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 11
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 7
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 49
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 3
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2372
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 7
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 27
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 54
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 6
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 167
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 2007,
+	"sandik": 72,
+	"secmen": 18798,
+	"oykullanan": 15591,
+	"gecerlioy": 15313,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 3168
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 17
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 4884
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 1022
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 452
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 42
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 39
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 5351
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 14
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 222
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 33
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 69
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 2002,
+	"sandik": 107,
+	"secmen": 22481,
+	"oykullanan": 16064,
+	"gecerlioy": 15419,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 2062
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 492
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 83
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 14
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 3286
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 259
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 286
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3791
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 1813
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 60
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 20
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2527
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 22
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 27
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 220
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 73
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 89
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 253
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 42
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 1999,
+	"sandik": 123,
+	"secmen": 21465,
+	"oykullanan": 18976,
+	"gecerlioy": 18336,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2325
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 40
+	},
+	{
+		"Parti": "BP",
+		"Oy": 31
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1578
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 13
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 14
+	},
+	{
+		"Parti": "DP",
+		"Oy": 38
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 4545
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 312
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4000
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 16
+	},
+	{
+		"Parti": "FP",
+		"Oy": 927
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 300
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 29
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 25
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3926
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 42
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 138
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 18
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 19
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 1995,
+	"sandik": 89,
+	"secmen": 18996,
+	"oykullanan": 15672,
+	"gecerlioy": 15238,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2790
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1022
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 3176
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4625
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 298
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 17
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2274
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 26
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 899
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 46
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 33
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 12
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 20
+	}
+	]
+},
+{
+	"ilce": "Karataþ",
+	"yil": 1991,
+	"sandik": 69,
+	"secmen": 16505,
+	"oykullanan": 13998,
+	"gecerlioy": 13760,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 3057
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2228
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 5845
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 639
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 1965
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 26
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 2011,
+	"sandik": 346,
+	"secmen": 87173,
+	"oykullanan": 74856,
+	"gecerlioy": 73144,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 34122
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 399
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 12113
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 415
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 123
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 253
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 137
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 422
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 32
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 23575
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 89
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 172
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 1019
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 60
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 213
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 2007,
+	"sandik": 275,
+	"secmen": 77237,
+	"oykullanan": 65782,
+	"gecerlioy": 64566,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 28667
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 328
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 7783
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 3450
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 1264
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 415
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 230
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 20503
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 80
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 1289
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 150
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 407
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 2002,
+	"sandik": 337,
+	"secmen": 80847,
+	"oykullanan": 64093,
+	"gecerlioy": 62140,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 20509
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 4514
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 390
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 195
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 7053
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 505
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1156
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 12644
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 3083
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 196
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 126
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 10017
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 162
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 61
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 914
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 49
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 357
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 189
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 20
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 1999,
+	"sandik": 405,
+	"secmen": 73181,
+	"oykullanan": 64831,
+	"gecerlioy": 62326,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 7820
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 580
+	},
+	{
+		"Parti": "BP",
+		"Oy": 126
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 3498
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 56
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 65
+	},
+	{
+		"Parti": "DP",
+		"Oy": 172
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 7866
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 168
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 9008
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 81
+	},
+	{
+		"Parti": "FP",
+		"Oy": 7251
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 509
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 135
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 188
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 24255
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 214
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 184
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 74
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 70
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 6
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 1995,
+	"sandik": 270,
+	"secmen": 67334,
+	"oykullanan": 59586,
+	"gecerlioy": 57997,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 12783
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2530
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 8169
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 12392
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 510
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 147
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 9535
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 293
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 11054
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 227
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 184
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 167
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 6
+	}
+	]
+},
+{
+	"ilce": "Kozan",
+	"yil": 1991,
+	"sandik": 223,
+	"secmen": 58810,
+	"oykullanan": 51559,
+	"gecerlioy": 50509,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 9559
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2151
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 19502
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 8468
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 10640
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 189
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Osmaniye",
+	"yil": 1995,
+	"sandik": 386,
+	"secmen": 103860,
+	"oykullanan": 83814,
+	"gecerlioy": 81314,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 12706
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 6087
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 7576
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 13419
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 2106
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 81
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 12796
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 380
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 25589
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 197
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 212
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 63
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 102
+	}
+	]
+},
+{
+	"ilce": "Osmaniye",
+	"yil": 1991,
+	"sandik": 252,
+	"secmen": 93847,
+	"oykullanan": 71249,
+	"gecerlioy": 69817,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 10288
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2977
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 20523
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 22307
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 13511
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 211
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 2011,
+	"sandik": 65,
+	"secmen": 14353,
+	"oykullanan": 12780,
+	"gecerlioy": 12501,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 6059
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 36
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2654
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 83
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 15
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 39
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 15
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 107
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 6
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3181
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 7
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 31
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 222
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 7
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 39
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 2007,
+	"sandik": 63,
+	"secmen": 17097,
+	"oykullanan": 14448,
+	"gecerlioy": 14168,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 6092
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 80
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2979
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 959
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 188
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 88
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 44
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3369
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 22
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 268
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 27
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 52
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 2002,
+	"sandik": 72,
+	"secmen": 16410,
+	"oykullanan": 12367,
+	"gecerlioy": 11936,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5036
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 602
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 83
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 33
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2215
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 108
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 216
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1279
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 575
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 43
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 18
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1253
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 41
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 12
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 258
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 13
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 71
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 77
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 3
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 1999,
+	"sandik": 85,
+	"secmen": 15728,
+	"oykullanan": 14052,
+	"gecerlioy": 13459,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1012
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 144
+	},
+	{
+		"Parti": "BP",
+		"Oy": 58
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1082
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 16
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 15
+	},
+	{
+		"Parti": "DP",
+		"Oy": 57
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 2623
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 45
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2455
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 11
+	},
+	{
+		"Parti": "FP",
+		"Oy": 1873
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 79
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 26
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 43
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3790
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 70
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 38
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 7
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 14
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 1995,
+	"sandik": 60,
+	"secmen": 14522,
+	"oykullanan": 11510,
+	"gecerlioy": 11162,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2037
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1200
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1387
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1999
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 85
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 19
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1934
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 67
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2341
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 41
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 33
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 15
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 4
+	}
+	]
+},
+{
+	"ilce": "Pozantý",
+	"yil": 1991,
+	"sandik": 40,
+	"secmen": 10649,
+	"oykullanan": 9154,
+	"gecerlioy": 8923,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2454
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 533
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2478
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 1312
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 2105
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 41
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 2011,
+	"sandik": 56,
+	"secmen": 11657,
+	"oykullanan": 9280,
+	"gecerlioy": 8992,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5205
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 50
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1009
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 98
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 14
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 21
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 14
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 89
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 7
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2330
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 15
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 14
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 99
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 7
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 20
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 2007,
+	"sandik": 51,
+	"secmen": 11940,
+	"oykullanan": 9668,
+	"gecerlioy": 9533,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5002
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 161
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1159
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 588
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 75
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 128
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 80
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2138
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 22
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 132
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 26
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 22
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 2002,
+	"sandik": 62,
+	"secmen": 11802,
+	"oykullanan": 9088,
+	"gecerlioy": 8891,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 3874
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 408
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 49
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 19
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1090
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 70
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 56
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1494
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 453
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 35
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 24
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1106
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 29
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 10
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 84
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 15
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 41
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 29
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 5
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 1999,
+	"sandik": 66,
+	"secmen": 10913,
+	"oykullanan": 9622,
+	"gecerlioy": 8892,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 579
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 91
+	},
+	{
+		"Parti": "BP",
+		"Oy": 40
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 870
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 4
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 12
+	},
+	{
+		"Parti": "DP",
+		"Oy": 26
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 778
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 34
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1260
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 10
+	},
+	{
+		"Parti": "FP",
+		"Oy": 1657
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 69
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 25
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 39
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3305
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 41
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 18
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 23
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 11
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 1995,
+	"sandik": 51,
+	"secmen": 10600,
+	"oykullanan": 8829,
+	"gecerlioy": 8662,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1173
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 552
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 588
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 1661
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 65
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 37
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1617
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 90
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2759
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 49
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 36
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 33
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 2
+	}
+	]
+},
+{
+	"ilce": "Saimbeyli",
+	"yil": 1991,
+	"sandik": 49,
+	"secmen": 11468,
+	"oykullanan": 9856,
+	"gecerlioy": 9581,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1406
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 471
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3596
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 2393
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 1646
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 69
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Sarýçam",
+	"yil": 2011,
+	"sandik": 295,
+	"secmen": 78749,
+	"oykullanan": 68975,
+	"gecerlioy": 67401,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 29943
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 366
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 11969
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 396
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 132
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 181
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 134
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 316
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 19
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 21702
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 73
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 124
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 614
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 44
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 1388
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 2011,
+	"sandik": 68,
+	"secmen": 12971,
+	"oykullanan": 10506,
+	"gecerlioy": 10240,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 5040
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 51
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2050
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 105
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 19
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 40
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 19
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 208
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 4
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2590
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 13
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 17
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 61
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 11
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 12
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 2007,
+	"sandik": 66,
+	"secmen": 14665,
+	"oykullanan": 11630,
+	"gecerlioy": 11405,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 4658
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 119
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2247
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 974
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 154
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 112
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 116
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2799
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 18
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 155
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 32
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 21
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 2002,
+	"sandik": 70,
+	"secmen": 14782,
+	"oykullanan": 10886,
+	"gecerlioy": 10565,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 2811
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 279
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 66
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 26
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2659
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 55
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 61
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2271
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 600
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 64
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 19
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 1365
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 15
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 11
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 162
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 14
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 44
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 39
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 4
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 1999,
+	"sandik": 86,
+	"secmen": 14089,
+	"oykullanan": 12963,
+	"gecerlioy": 12539,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 512
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 176
+	},
+	{
+		"Parti": "BP",
+		"Oy": 33
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1469
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 29
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 12
+	},
+	{
+		"Parti": "DP",
+		"Oy": 47
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1667
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 30
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2587
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 11
+	},
+	{
+		"Parti": "FP",
+		"Oy": 1047
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 58
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 41
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 74
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 4609
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 46
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 56
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 13
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 22
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 1995,
+	"sandik": 65,
+	"secmen": 13662,
+	"oykullanan": 11194,
+	"gecerlioy": 10881,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1304
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 1473
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 880
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2854
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 70
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 34
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2224
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 64
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 1854
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 50
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 31
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 28
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 15
+	}
+	]
+},
+{
+	"ilce": "Tufanbeyli",
+	"yil": 1991,
+	"sandik": 57,
+	"secmen": 13924,
+	"oykullanan": 11055,
+	"gecerlioy": 10785,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1728
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 619
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3168
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 1704
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 3510
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 56
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 2011,
+	"sandik": 61,
+	"secmen": 13025,
+	"oykullanan": 11447,
+	"gecerlioy": 11168,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 4308
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 56
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 3197
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 119
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 20
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 35
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 23
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 52
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 3
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 3243
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 11
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 17
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 38
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 6
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 40
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 2007,
+	"sandik": 61,
+	"secmen": 16232,
+	"oykullanan": 13225,
+	"gecerlioy": 12984,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 3739
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 33
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2724
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 1223
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 438
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 28
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 61
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 4570
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 7
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 105
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 20
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 36
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 2002,
+	"sandik": 77,
+	"secmen": 16922,
+	"oykullanan": 13159,
+	"gecerlioy": 12660,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 2271
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 448
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 40
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 19
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 2454
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 84
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 81
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3304
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 1498
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 38
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 15
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2084
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 18
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 18
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 96
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 18
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 38
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 83
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 53
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 1999,
+	"sandik": 100,
+	"secmen": 16551,
+	"oykullanan": 15272,
+	"gecerlioy": 14737,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 1707
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 98
+	},
+	{
+		"Parti": "BP",
+		"Oy": 25
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 584
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 14
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 10
+	},
+	{
+		"Parti": "DP",
+		"Oy": 50
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 3178
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 220
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 2597
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 17
+	},
+	{
+		"Parti": "FP",
+		"Oy": 1117
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 106
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 34
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 24
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 4828
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 28
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 83
+	},
+	{
+		"Parti": "RP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 10
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 7
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 1995,
+	"sandik": 64,
+	"secmen": 13902,
+	"oykullanan": 12443,
+	"gecerlioy": 12104,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2291
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 943
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 1737
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 3053
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 81
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 25
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 2786
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 52
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 1066
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 0
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 29
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 24
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 15
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 2
+	}
+	]
+},
+{
+	"ilce": "Yumurtalýk",
+	"yil": 1991,
+	"sandik": 49,
+	"secmen": 14174,
+	"oykullanan": 12047,
+	"gecerlioy": 11792,
+	"partiler": [
+	{
+		"Parti": "AK Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "ANAP",
+		"Oy": 2952
+	},
+	{
+		"Parti": "ATP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "CHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DBP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEHAP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "DP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DSP",
+		"Oy": 790
+	},
+	{
+		"Parti": "DTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "DYP",
+		"Oy": 4686
+	},
+	{
+		"Parti": "EMEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "FP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Genç Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HADEP",
+		"Oy": 0
+	},
+	{
+		"Parti": "HEPAR",
+		"Oy": 0
+	},
+	{
+		"Parti": "Has Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "HYP",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "LDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MHP",
+		"Oy": 0
+	},
+	{
+		"Parti": "MMP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Millet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "ÖDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "RP",
+		"Oy": 996
+	},
+	{
+		"Parti": "Saadet Partisi",
+		"Oy": 0
+	},
+	{
+		"Parti": "SHP",
+		"Oy": 2343
+	},
+	{
+		"Parti": "SÝP",
+		"Oy": 0
+	},
+	{
+		"Parti": "SP",
+		"Oy": 25
+	},
+	{
+		"Parti": "TKP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDH",
+		"Oy": 0
+	},
+	{
+		"Parti": "YDP",
+		"Oy": 0
+	},
+	{
+		"Parti": "Yeni Parti",
+		"Oy": 0
+	},
+	{
+		"Parti": "YP",
+		"Oy": 0
+	},
+	{
+		"Parti": "YTP",
+		"Oy": 0
+	},
+	{
+		"Parti": "BÐMZ",
+		"Oy": 0
+	}
+	]
+}
+]
+}
