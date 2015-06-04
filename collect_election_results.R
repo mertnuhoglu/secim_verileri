@@ -12,6 +12,7 @@ library("reshape2")
 library("gtools")
 library("rjson")
 library("compare")
+source('utils_election.R')
 
 main = function() {
 	download_memurlarnet()
@@ -48,14 +49,12 @@ parse_memurlarnet_data_master = function() {
 	filenames = sprintf( dir_genel_memurlarnet_clean() %+% "%02s.json", 1:81)
 	dl = llply(filenames, list.load, .progress = "text")
 	iller = seq_along(dl) %>%
-		lapply(
-			function(i, dl) {
-				dl[[i]] %>% `[[`('secim') %>%
-				list.select(ilce, yil, sandik, secmen, oykullanan, gecerlioy) %>%
-				rbindlist %>%
-				cbind(il=i)
-			}, dl
-		) %>%
+		lapply( function(i, dl) {
+			dl[[i]] %>% `[[`('secim') %>%
+			list.select(ilce, yil, sandik, secmen, oykullanan, gecerlioy) %>%
+			rbindlist %>%
+			cbind(il=i)
+		}, dl ) %>%
 		rbindlist
 }
 
@@ -68,31 +67,23 @@ parse_memurlarnet_data_partioylari = function() {
 		) 
 
 	pkv = seq_along(dvl) %>% 
-		llply(
-			function(i, dvl) {
-				dv = dvl[[i]]
-				seq_along(dv) %>>%
-					llply(
-						function(i, dv) {
-							dv[[i]] %>%
-								`[[`('partiler') %>%
-								rbindlist %>%
-								cbind( ilce=dv[[i]][['ilce']], yil=dv[[i]][['yil']] )
-						},
-						dv
-					)
-			},
-			dvl
-		)
+		llply( function(i, dvl) {
+			dv = dvl[[i]]
+			seq_along(dv) %>>%
+				llply( function(i, dv) {
+					dv[[i]] %>%
+					`[[`('partiler') %>%
+					rbindlist %>%
+					cbind( ilce=dv[[i]][['ilce']], yil=dv[[i]][['yil']] )
+				}, dv )
+		}, dvl )
+
 	pv = seq_along(pkv) %>%
-		llply(
-			function(i, pkv) {
-				pkv[[i]] %>%
-				rbindlist %>%
-				cbind(il=i)
-			},
-			pkv
-		) 
+		llply( function(i, pkv) {
+			pkv[[i]] %>%
+			rbindlist %>%
+			cbind(il=i)
+		}, pkv ) 
 
 	p = pv %>%
 		rbindlist
