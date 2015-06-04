@@ -16,11 +16,11 @@ library("compare")
 main = function() {
 	download_memurlarnet()
 	clean_memurlarnet_json_files()
-	df_master = parse_memurlarnet_data_master()
-	df_partioylari = parse_memurlarnet_data_partioylari()
+	dt_sandiklar = parse_memurlarnet_data_master()
+	dt_oylar = parse_memurlarnet_data_partioylari()
 
-	write_genel_secim_sandiklar(df_master)
-	write_genel_secim_oylar(df_partioylari)
+	write_genel_secim_sandiklar(dt_sandiklar)
+	write_genel_secim_oylar(dt_oylar)
 }
 
 download_memurlarnet = function() {
