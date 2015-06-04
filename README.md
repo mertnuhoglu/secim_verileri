@@ -29,3 +29,7 @@ https://github.com/mertnuhoglu/secim_verileri/raw/master/data/memurlarnet/genel/
 
 Dosyalar csv metin formatındadır. Excel ve Google Docs ile açabilirsiniz. 
 
+# Sonuç veri kümesini yeniden üretme (reproduction)
+
+Ham veri kaynağından son çıktıyı yeniden üretmek için `collect_election_results.R` script dosyasındaki `main()` fonksiyonunu bir R konsolu içinden çağırın.
+
