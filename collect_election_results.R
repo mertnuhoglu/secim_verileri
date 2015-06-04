@@ -18,6 +18,9 @@ main = function() {
 	clean_memurlarnet_json_files()
 	df_master = parse_memurlarnet_data_master()
 	df_partioylari = parse_memurlarnet_data_partioylari()
+
+	write_genel_secim_sandiklar(df_master)
+	write_genel_secim_oylar(df_partioylari)
 }
 
 download_memurlarnet = function() {

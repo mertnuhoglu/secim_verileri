@@ -21,4 +21,8 @@ dir_cb_memurlarnet = function() { get_directory('cb_memurlarnet') }
 dir_genel_memurlarnet_raw = function() { dir_genel_memurlarnet() %+% 'raw/' }
 dir_genel_memurlarnet_clean = function() { dir_genel_memurlarnet() %+% 'clean/' }
 
+read_genel_secim_sandiklar = read_csv_fun('genel_secim_sandiklar')
+write_genel_secim_sandiklar = write_csv_fun('genel_secim_sandiklar')
+read_genel_secim_oylar = read_csv_fun('genel_secim_oylar')
+write_genel_secim_oylar = write_csv_fun('genel_secim_oylar')
 
